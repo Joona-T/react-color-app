@@ -1,0 +1,35 @@
+.paperStyle {
+    height: 100px;
+    width: 100px;
+    margin: 20px;
+    text-align: center;
+    display: inline-block;
+}
+
+.root {
+    display: flex;
+    height: 124px;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.il {
+    display: inline-block;
+}
+
+.divMargins {
+    margin: 20px;
+}
+
+.gridRoot {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.gridList {
+    width: 500px;
+    max-height: 768px;
+    overflow-y: auto;
+}
+
