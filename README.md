@@ -2,7 +2,7 @@
 
 A dynamic color picker app implemented with React.
 
-![app thumbnail](thumbnail.PNG)
+![app thumbnail](thumbnail.png)
 
 Dependencies:
   * React (https://reactjs.org/)
