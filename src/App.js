@@ -275,7 +275,7 @@ class App extends Component {
 		return (
 			<MuiThemeProvider>
 				<div className="App">
-					<AppBar title="Exercise 4.4"></AppBar>
+					<AppBar title="Dynamic color picker"></AppBar>
                     
                     <div className="divMargins">
 
